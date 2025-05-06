@@ -48,6 +48,7 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 + Back-end com autenticação, gerenciamento de produtos e controle de pedidos.
 + Integração com sistema de pagamento e notificações por e-mail.
 + Documentação técnica e instruções de uso.
+
 ❌ Excluído:
 - Integração com redes sociais além da exibição de links.
 - Sistema de avaliação e comentários dos produtos.

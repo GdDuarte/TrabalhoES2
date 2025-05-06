@@ -55,7 +55,7 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 - Chat ao vivo ou suporte em tempo real.
 - Aplicativo nativo móvel (versão futura).
 
-## 🛠️ Tecnologias Utilizadas (Exemplo)
+## 🛠️ Tecnologias que serão Utilizadas 
 - Front-end: HTML5, CSS3, JavaScript, React.js
 - Back-end: Node.js com Express ou Python com Django
 - Banco de Dados: MYSQL

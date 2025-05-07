@@ -9,7 +9,7 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 🔹 Funcionais:
 - Cadastro e login de usuários (clientes e administradores).
 - Catálogo de produtos com imagens, descrições, preços e categorias.
-- Sistema de busca e filtros por categoria, cor, tamanho e disponibilidade.
+- Sistema de busca e filtros por categoria, estilo, tamanho e disponibilidade.
 - Carrinho de compras
 - Área do cliente com histórico de pedidos e status.
 - Painel administrativo para gerenciamento de estoque, pedidos e cadastro de novos produtos.

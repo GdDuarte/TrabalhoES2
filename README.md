@@ -1,5 +1,5 @@
 # TrabalhoESOF2
-## 🧶 Amigurumi Store - README
+## 🧶 Amigurumi Store 
 _"Um sistema web para venda de produtos artesanais em formato de amigurumis. Projeto voltado para pequenos empreendedores criativos que desejam divulgar e vender seus produtos online."_
 
 ## 🌐 Domínio do Projeto

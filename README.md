@@ -18,7 +18,6 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 🔹 Não Funcionais:
 - Interface responsiva (acessível em dispositivos móveis e desktops).
 - Alta usabilidade e navegação intuitiva.
-- Integração com meios de pagamento seguros.
 - Banco de dados seguro e escalável.
 - Performance otimizada para carregamento rápido das páginas.
 

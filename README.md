@@ -49,8 +49,7 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 ❌ Excluído:
 - Sistema de avaliação e comentários dos produtos.
 - Chat ao vivo ou suporte em tempo real.
-- Aplicativo nativo móvel (versão futura).
-- Integração com sistema de pagamento e notificações por e-mail.
+- Aplicativo nativo móvel
 
 ## 🛠️ Tecnologias que serão Utilizadas 
 - Front-end: HTML5, CSS3, JavaScript, React.js

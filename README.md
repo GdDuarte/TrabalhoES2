@@ -56,4 +56,4 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 - Back-end: Node.js ou PHP
 - Banco de Dados: MYSQL
 - Autenticação: JWT ou OAuth
-- Deploy: Vercel/Netlify + Heroku/Docker/AWS
+- Deploy: GithubPages

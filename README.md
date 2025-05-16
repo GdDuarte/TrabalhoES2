@@ -1,6 +1,5 @@
 # TrabalhoESOF2
-## 🧶 Amigurumi Art
-_"Um sistema web para venda de produtos artesanais em formato de amigurumis. Projeto voltado para pequenos empreendedores criativos que desejam divulgar e vender seus produtos online."_
+# 🧶 Amigurumi Art
 
 ## 🌐 Domínio do Projeto
 O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce especializada na venda de amigurumis, peças artesanais feitas em crochê ou tricô que representam personagens fofos, animais ou objetos estilizados. A plataforma tem como objetivo conectar artesãos a clientes interessados em produtos únicos e personalizados, oferecendo uma experiência de compra simples, segura e atrativa.

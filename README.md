@@ -17,7 +17,7 @@ Funcionais:
 - Alta usabilidade e navegação intuitiva.
 - Banco de dados escalável.
 
-## Modelos de Processos XP (Extreme Programming)
+## Modelos de Processos Scrum
 1. Cadastro do Cliente
 * O cliente acessa a página inicial.
 * Clica em "Entrar / Registrar".

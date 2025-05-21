@@ -17,7 +17,7 @@ Funcionais:
 - Alta usabilidade e navegação intuitiva.
 - Banco de dados escalável.
 
-## Modelos de Processos
+## Modelos de Processos XP (Extreme Programming)
 1. Cadastro do Cliente
 * O cliente acessa a página inicial.
 * Clica em "Entrar / Registrar".
@@ -47,7 +47,6 @@ Funcionais:
 - Back-end: Node.js
 - Banco de Dados: MYSQL
 
-# Metodo XP (Extreme Programming)
 ### Sprint 1 – Estrutura Inicial + Autenticação de Usuário 
 Objetivos:
 Configuração do ambiente (projeto front e back).

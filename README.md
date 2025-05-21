@@ -42,9 +42,9 @@ Incluído:
 + Integração com sistema de pagamento e notificações por e-mail.
 + Documentação técnica e instruções de uso.
 + Integração com redes sociais além da exibição de links.
++ Sistema de avaliação e comentários dos produtos.
 
 Excluído:
-- Sistema de avaliação e comentários dos produtos.
 - Chat ao vivo ou suporte em tempo real.
 - Aplicativo nativo móvel
 

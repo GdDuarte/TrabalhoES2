@@ -39,7 +39,6 @@ Funcionais:
 Incluído:
 + Desenvolvimento do front-end responsivo com interface amigável.
 + Back-end com autenticação, gerenciamento de produtos e controle de pedidos.
-+ Integração com sistema de pagamento e notificações por e-mail.
 + Documentação técnica e instruções de uso.
 + Integração com redes sociais além da exibição de links.
 + Sistema de avaliação e comentários dos produtos.

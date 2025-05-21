@@ -10,14 +10,12 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 - Catálogo de produtos com imagens, descrições, preços e categorias.
 - Sistema de busca e filtros por categoria, estilo, tamanho e disponibilidade.
 - Carrinho de compras
-- Área do cliente com histórico de pedidos e status.
 - Painel administrativo para gerenciamento de estoque, pedidos e cadastro de novos produtos.
 
 🔹 Não Funcionais:
 - Interface responsiva (acessível em dispositivos móveis e desktops).
 - Alta usabilidade e navegação intuitiva.
-- Banco de dados seguro e escalável.
-- Performance otimizada para carregamento rápido das páginas.
+- Banco de dados escalável.
 
 ## 🔄 Modelos de Processos
 1. Cadastro do Cliente

@@ -50,7 +50,5 @@ O projeto consiste no desenvolvimento de uma plataforma digital de e-commerce es
 
 ## 🛠️ Tecnologias que serão Utilizadas 
 - Front-end: HTML5, CSS3, JavaScript, React.js
-- Back-end: Node.js ou PHP
+- Back-end: Node.js
 - Banco de Dados: MYSQL
-- Autenticação: JWT ou OAuth
-- Deploy: GithubPages

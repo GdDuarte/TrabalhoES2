@@ -36,16 +36,11 @@ Funcionais:
 * Atualiza informações como preço, estoque e disponibilidade.
 
 ## Escopo do Projeto
-Incluído:
 + Desenvolvimento do front-end responsivo com interface amigável.
 + Back-end com autenticação, gerenciamento de produtos e controle de pedidos.
 + Documentação técnica e instruções de uso.
 + Integração com redes sociais além da exibição de links.
 + Sistema de avaliação e comentários dos produtos.
-
-Excluído:
-- Chat ao vivo ou suporte em tempo real.
-- Aplicativo nativo móvel
 
 ## Tecnologias que serão Utilizadas 
 - Front-end: HTML5, CSS3, JavaScript, React.js
